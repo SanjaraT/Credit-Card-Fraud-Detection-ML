@@ -19,4 +19,4 @@ def run_eda(path="data/creditcard.csv"):
     plt.show()
 
     return df
-run_eda("data/creditcard.csv")
+# run_eda("data/creditcard.csv")
